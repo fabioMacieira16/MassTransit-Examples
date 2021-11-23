@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OrderPublisher
+build_property.ProjectDir = C:\Users\118069\Documents\GitHub\MassTransit-Examples\OrderService\OrderPublisher\
